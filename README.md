@@ -1,6 +1,6 @@
 
-- Hi, I’m @Beenish06!
-- 
+ Hi, I’m @Beenish06!
+  
 - 👀 I’m interested in software quality assurance, testing methodologies, automation, and continuous improvement in software development processes.
 - 🌱 I’m currently learning about advanced test automation frameworks, performance testing, and API testing techniques.
 - 💞️ I’m looking to collaborate on projects related to improving software quality, enhancing testing strategies, and implementing efficient automation solutions.
